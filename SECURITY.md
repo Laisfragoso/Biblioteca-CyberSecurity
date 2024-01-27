@@ -7,7 +7,7 @@ Todos os colaboradores são responsáveis por seguir as práticas de segurança 
 Os colaboradores também são responsáveis por relatar quaisquer violações de segurança imediatamente à equipe de segurança do repositório.
 
 ## Proteção de Dados
-Nós não coletamos, armazenamos ou compartilhamos quaisquer dados pessoais dos usuários que acessam os links de download de terceiros [Anna’s Archive](https://annas-archive.org/). Os links para download de terceiros são fornecidos apenas para fins informativos e não nos responsabilizamos por quaisquer problemas que possam surgir ao acessá-los.
+Nós não coletamos, armazenamos ou compartilhamos quaisquer dados pessoais dos usuários que acessam os links de terceiros. 
 
 ## Proteção do Sistema
 O repositório é protegido por medidas de segurança, incluindo a utilização de senhas fortes, autenticação de dois fatores e monitoramento de atividades suspeitas. Além disso, todas as atualizações de segurança serão aplicadas imediatamente para garantir a integridade do repositório.
