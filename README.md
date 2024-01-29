@@ -1,5 +1,5 @@
-# Biblioteca CyberSegurança
-📚 Biblioteca de Livros úteis para área de Cybersecurity e Segurança da Informação.
+# Biblioteca CyberSecurity
+📚 Biblioteca de Livros úteis para área de Cibersegurança e Segurança da Informação.
 
 Está é uma biblioteca pública onde você também pode contribuir sugerindo novos livros e dando 
 sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblioteca-CyberSecurity/issues).
@@ -20,7 +20,7 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | [Segurança em Cloud Computing](#Segurança-em-Cloud-Computing)                  | Materiais que exploram os aspectos de segurança na computação em nuvem.                                          |
 | [Segurança em Dispositivos Móveis](#Segurança-em-Dispositivos-Móveis)              | Livros que abordam os desafios e práticas recomendadas para garantir a segurança em dispositivos móveis.         |
 | [Segurança em Sistemas Operacionais](#Segurança-em-Sistemas-Operacionais)            | Recursos específicos sobre a segurança de sistemas operacionais, incluindo configurações seguras e boas práticas. |
-| [Segurança de Redes](#Segurança-de-Redes)                            | Recursos focados em proteger redes contra ameaças, incluindo firewalls, detecção de intrusões e prevenção de ataques. |
+| [Redes de Computadores](#Redes-de-Computadores)                            | Livros que cobrem princípios, protocolos e práticas relacionadas à segurança em redes de computadores. |
 | [Tendências e Inovações em Segurança da Informação](#Tendências-e-Inovações-em-Segurança-da-Informação) | Livros que abordam as últimas tendências, tecnologias e inovações na área de cibersegurança.                    |
 
 ## Casos de Estudo e Incidentes Notáveis
@@ -35,11 +35,16 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 |------|-------|------|-------|
 | <img src="https://m.media-amazon.com/images/I/716vjw3vL9L._SL1500_.jpg" width="100" height="150"></img> | Daniel Moreno | Introdução ao Pentest | <a href=https://amzn.to/49dDURK>Amazon</a> |
 | <img src="https://m.media-amazon.com/images/I/71ZXj8Rs3YL._SL1297_.jpg" width="100" height="150"></img> | Daniel Moreno | Pentest em Aplicações web | <a href=https://amzn.to/3Om83q6>Amazon</a> |
+| <img src="https://m.media-amazon.com/images/I/717L62QlT6L._SL1297_.jpg" width="100" height="150"></img> | Daniel Moreno | Pentest em Redes sem fio | <a href=https://amzn.to/47WaN4n>Amazon</a> |
+| <img src="https://m.media-amazon.com/images/I/81Wd8UqI03L._SL1383_.jpg" width="100" height="150"></img> | Georgia Weidman | Testes de Invasão: uma Introdução Prática ao Hacking | <a href=https://amzn.to/4bgGvvP>Amazon</a> |
 ## Segurança em Aplicações Web
 ## Segurança em Cloud Computing
 ## Segurança em Dispositivos Móveis
 ## Segurança em Sistemas Operacionais
-## Segurança de Redes
+## Redes de Computadores
+| Capa | Autor | Nome | Loja |
+|------|-------|------|-------|
+| <img src="https://m.media-amazon.com/images/I/81x-nHq0GXL._SL1436_.jpg" width="100" height="150"></img> | João Eriberto Mota Filho | Análise de Tráfego em Redes TCP/IP: Utilize Tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional | <a href=https://amzn.to/48QQ2YR>Amazon</a> |
 ## Tendências e Inovações em Segurança da Informação
 
 
