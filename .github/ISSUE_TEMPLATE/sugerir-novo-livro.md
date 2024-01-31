@@ -1,7 +1,7 @@
 ---
 name: Sugerir novo livro
 about: Sugestão para um novo livro para a biblioteca
-title: ''
+title: 'Sugerir um novo livro'
 labels: Sugestão
 assignees: ''
 
