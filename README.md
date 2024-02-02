@@ -45,6 +45,7 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | <img src="https://m.media-amazon.com/images/I/717L62QlT6L._SL1297_.jpg" width="100" height="150"></img> | Daniel Moreno | Pentest em Redes sem fio | <a href=https://amzn.to/47WaN4n>Amazon</a> |
 | <img src="https://m.media-amazon.com/images/I/81Wd8UqI03L._SL1383_.jpg" width="100" height="150"></img> | Georgia Weidman | Testes de Invasão: uma Introdução Prática ao Hacking | <a href=https://amzn.to/4bgGvvP>Amazon</a> |
 | <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/51hubAsJSTL._SL1360_.jpg" width="100" height="150"></img> | Joshua Picolet | Hash Crack: Password Cracking Manual (v3) | <a href=https://a.co/d/1HeYRrq>Amazon</a> |
+| <img src="https://m.media-amazon.com/images/I/81S-Ni3doAL._SL1500_.jpg" width="100" height="150"></img> | Vickie Li | Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities | <a href=https://amzn.to/48YUncP>Amazon</a> |
 ## Segurança em Aplicações Web
 ## Segurança em Cloud Computing
 ## Segurança em Dispositivos Móveis
@@ -57,12 +58,14 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | Capa | Autor | Nome | Loja |
 |------|-------|------|-------|
 | <img src="https://m.media-amazon.com/images/I/81x-nHq0GXL._SL1436_.jpg" width="100" height="150"></img> | João Eriberto Mota Filho | Análise de Tráfego em Redes TCP/IP: Utilize Tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional | <a href=https://amzn.to/48QQ2YR>Amazon</a> |
+| <img src="https://m.media-amazon.com/images/I/91uoaAYJkrL._SL1500_.jpg" width="100" height="150"></img> | Andrew Tanenbaum | Redes de Computadores | <a href=https://amzn.to/481MKAQ>Amazon</a> |
 ## Cyber Threat Intelligence
 | Capa | Autor | Nome | Loja |
 |------|-------|------|-------|
 | <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71DrSXytyVL._SL1500_.jpg" width="100" height="150"></img> | Recorded Future | The Threat Intelligence Handbook: A Practical Guide for Security Teams to Unlocking the Power of Intelligence | <a href=https://a.co/d/5PUTOWN>Amazon</a> |
 | <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71AwDEjnzZL._SL1500_.jpg" width="100" height="150"></img> | Nicole Perlroth | This Is How They Tell Me the World Ends: The Cyberweapons Arms Race | <a href=https://a.co/d/bnpibNL>Amazon</a> |
 | <img src="https://m.media-amazon.com/images/I/61JWmhTkVYL._SL1181_.jpg" width="100" height="150"></img> | Nihad A. Hassan | Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence | <a href=https://amzn.to/3u8L2A1>Amazon</a> |
+| <img src="https://m.media-amazon.com/images/I/61YbRivN0FL._SL1500_.jpg" width="100" height="150"></img> | Don Murdoch | Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02): A Condensed Guide for the Security Operations Team and Threat Hunter | <a href=https://amzn.to/42swZSn>Amazon</a> |
 ## Tendências e Inovações em Segurança da Informação
 
 
