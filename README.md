@@ -12,17 +12,13 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | [Compliance e Regulamentações](#Compliance-e-Regulamentações)                  | Livros que abordam as leis e regulamentações relevantes para a segurança da informação, como LPGD e etc.   |
 | [Certificações](#Certificações)                                 | Recursos relacionados a certificações de segurança da informação, abordando preparação, exames e boas práticas para profissionais da área. |
 | [Criptografia](#Criptografia)                                  | Livros que exploram técnicas de criptografia, algoritmos e sua aplicação na segurança da informação.           |
-| [Forense Digital](#Forense-Digital)                               | Livros que tratam da investigação de incidentes de segurança, coleta de evidências digitais e procedimentos forenses. |
-| [Fundamentos de Segurança da Informação](#Fundamentos-de-Segurança-da-Informação)        | Livros que abordam os princípios básicos e fundamentos da segurança da informação.                               |
 | [Gestão de Riscos em Segurança da Informação](#Gestão-de-Riscos-em-Segurança-da-Informação)   | Materiais que discutem estratégias para avaliação e gestão de riscos de segurança.                               |
 | [Pentest, Hacking Ético e Red Team](#Pentest-Hacking-Ético-e-Red-Team)             | Recursos relacionados a pentest, hacking ético e práticas de segurança ofensiva.                   |
 | [Segurança em Aplicações Web](#Segurança-em-Aplicações-Web)                   | Livros que tratam de práticas seguras no desenvolvimento e manutenção de aplicações web.                         |
-| [Segurança em Cloud Computing](#Segurança-em-Cloud-Computing)                  | Materiais que exploram os aspectos de segurança na computação em nuvem.                                          |
-| [Segurança em Dispositivos Móveis](#Segurança-em-Dispositivos-Móveis)              | Livros que abordam os desafios e práticas recomendadas para garantir a segurança em dispositivos móveis.         |
 | [Redes de Computadores](#Redes-de-Computadores)                            | Livros que cobrem princípios, protocolos e práticas relacionadas à segurança em redes de computadores. |
 | [Cyber Threat Intelligence](#Cyber-Threat-Intelligence)                     | Livros e recursos focados na inteligência de ameaças cibernéticas, abordando a coleta, análise e aplicação de informações para defesa proativa. |
 | [Sistemas Operacionais](#Sistemas-Operacionais)                         | Recursos específicos sobre a segurança de sistemas operacionais, incluindo configurações seguras e boas práticas. |
-| [Phishing](#Phishing)                         | Livros e recursos específicos sobre phishing, abordando técnicas, prevenção, detecção e resposta a ataques de phishing. |
+| [Engenharia Social](#Engenharia-Social)                         | Livros que abordam técnicas, estratégias e práticas relacionadas à engenharia social, que envolve a manipulação psicológica para obter acesso não autorizado a informações sensíveis ou sistemas. |
 
 
 ## Linguagem de Programação
@@ -63,6 +59,13 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/51hubAsJSTL._SL1360_.jpg" width="100" height="150"></img> | Joshua Picolet | Hash Crack: Password Cracking Manual (v3) | <a href=https://a.co/d/1HeYRrq>Amazon</a> | [PDF](exemplo_link_pdf) |
 | <img src="https://m.media-amazon.com/images/I/81S-Ni3doAL._SL1500_.jpg" width="100" height="150"></img> | Vickie Li | Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities | <a href=https://amzn.to/48YUncP>Amazon</a> | [PDF](exemplo_link_pdf) |
 
+## Segurança em Aplicações Web
+| Capa | Autor | Nome | Loja |
+|------|-------|------|-------|
+| <img src="https://m.media-amazon.com/images/I/71ZXj8Rs3YL._SL1297_.jpg" width="100" height="150"></img> | Daniel Moreno | Pentest em Aplicações web | <a href=https://amzn.to/3Om83q6>Amazon</a> |
+| <img src="https://m.media-amazon.com/images/I/71FPkw065VL._SL1500_.jpg" width="100" height="150"></img> | Rodrigo Ferreira | Segurança em aplicações Web | <a href=https://amzn.to/3HOBT2s>Amazon</a> |
+| <img src="https://m.media-amazon.com/images/I/71cjTXIenLL._SL1500_.jpg" width="100" height="150"></img> | José Augusto de Almeida Jr.  | Pentest em aplicações web: Avalie a segurança contra ataques web com testes de invasão no Kali Linux | <a href=https://amzn.to/485sKxg>Amazon</a> |
+
 ## Redes de Computadores
 | Capa | Autor | Nome | Loja | PDF |
 |------|-------|------|-------|----|
@@ -78,7 +81,12 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | <img src="https://m.media-amazon.com/images/I/61JWmhTkVYL._SL1181_.jpg" width="100" height="150"></img> | Nihad A. Hassan | Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence | <a href=https://amzn.to/3u8L2A1>Amazon</a> | [PDF](exemplo_link_pdf) |
 | <img src="https://m.media-amazon.com/images/I/61YbRivN0FL._SL1500_.jpg" width="100" height="150"></img> | Don Murdoch | Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02): A Condensed Guide for the Security Operations Team and Threat Hunter | <a href=https://amzn.to/42swZSn>Amazon</a> | [PDF](exemplo_link_pdf) |
 
-## Phishing
+## Sistemas Operacionais
+| Capa | Autor | Nome | Loja |
+|------|-------|------|-------|
+| <img src="https://m.media-amazon.com/images/I/81TqQbBQKPL._SL1500_.jpg" width="100" height="150"></img> | Andrew S. Tanenbaum | Sistemas Operacionais Modernos | <a href=https://amzn.to/3Orc5xg>Amazon</a> |
+
+## Engenharia Social
 | Capa | Autor | Nome | Loja | PDF |
 |------|-------|------|-------|----|
 | <img src="https://m.media-amazon.com/images/I/51VM8G3yDfL._SL1000_.jpg" width="100" height="150"></img> | Andrew S. Tanenbaum | A Arte de Enganar: Ataques de Hackers: Controlando o Fator Humano na Segurança da Informação | <a href=https://amzn.to/49gccUm>Amazon</a> | [PDF](exemplo_link_pdf) |
