@@ -26,8 +26,7 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 |------|-------|------|-------|----|
 | <img src="https://m.media-amazon.com/images/I/91NJ0qC4vEL._SL1500_.jpg" width="100" height="150"></img> | Justin Seitz | Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters | <a href=https://amzn.to/3Onzj7h>Amazon</a> | [PDF](exemplo_link_pdf) |
 | <img src="https://m.media-amazon.com/images/I/717NiWamPGL._SL1413_.jpg" width="100" height="150"></img> | Aurelio Marinho Jargas | Shell Script Profissional | <a href=https://amzn.to/3Smnvn9>Amazon</a> | [PDF](exemplo_link_pdf) |
-| <img src="https://m.media-amazon.com/images/I/61nYir0yKiL._SL1500_.jpg" width="100" height="150"></img> | Julio Cezar Neves | Programação Shell Linux: Referência Definitiva da Linguagem Shell | <a href=https://amzn.to/3HJVNMf>Amazon</a> | [PDF](exemplo_link_pdf) |
-| <img src="https://m.media-amazon.com/images/I/61qxP-mwRgL._SL1297_.jpg" width="100" height="150"></img> | Aurelio Marinho Jargas | Gestão da Segurança da Informação | <a href=https://amzn.to/48giEKl>Amazon</a> | [PDF](exemplo_link_pdf) |
+| <img src="https://m.media-amazon.com/images/I/61qxP-mwRgL._SL1297_.jpg" width="100" height="150"></img> | Aurelio Marinho Jargas | Expressões Regulares: Uma Abordagem Divertida | <a href=https://amzn.to/48giEKl>Amazon</a> | [PDF](exemplo_link_pdf) |
 
 ## Compliance e Regulamentações
 | Capa | Autor | Nome | Loja | PDF |
