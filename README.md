@@ -59,10 +59,10 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | <img src="https://m.media-amazon.com/images/I/81S-Ni3doAL._SL1500_.jpg" width="100" height="150"></img> | Vickie Li | Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities | <a href=https://amzn.to/48YUncP>Amazon</a> | [PDF](/Livros/Bug%20Bounty%20Bootcamp_%20The%20Guide%20to%20Finding%20and%20Reporting%20Web%20--%20Vickie%20Li%20--%201%2C%202021%20--%20No%20Starch%20Press%20--%209781718501546%20--%207da101584b9c430e9212e55f249cd9f9%20--%20Anna’s%20Archive.pdf) |
 
 ## Segurança em Aplicações Web
-| Capa | Autor | Nome | Loja |
-|------|-------|------|-------|
-| <img src="https://m.media-amazon.com/images/I/71ZXj8Rs3YL._SL1297_.jpg" width="100" height="150"></img> | Daniel Moreno | Pentest em Aplicações web | <a href=https://amzn.to/3Om83q6>Amazon</a> | [PDF] |(/Livros/Pentest%20em%20aplicações%20web%20--%20Daniel%20Moreno%20--%202017%20--%20Novatec%20Editora%20--%209788575226131%20--%20bae3a415ec3d090de140eb4da01a8f44%20--%20Anna’s%20Archive.pdf)
-| <img src="https://m.media-amazon.com/images/I/71FPkw065VL._SL1500_.jpg" width="100" height="150"></img> | Rodrigo Ferreira | Segurança em aplicações Web | <a href=https://amzn.to/3HOBT2s>Amazon</a> | [PDF] |(/Livros/Seguranca%20em%20aplicacoes%20Web%20--%20Casa%20do%20Codigo%20--%20Casa%20do%20Codigo%20--%20eaeb032619cb2819d6fa72e04f0523ac%20--%20Anna’s%20Archive.pdf)
+| Capa | Autor | Nome | Loja | PDF |
+|------|-------|------|-------|----|
+| <img src="https://m.media-amazon.com/images/I/71ZXj8Rs3YL._SL1297_.jpg" width="100" height="150"></img> | Daniel Moreno | Pentest em Aplicações web | <a href=https://amzn.to/3Om83q6>Amazon</a> | [PDF](/Livros/Pentest%20em%20aplicações%20web%20--%20Daniel%20Moreno%20--%202017%20--%20Novatec%20Editora%20--%209788575226131%20--%20bae3a415ec3d090de140eb4da01a8f44%20--%20Anna’s%20Archive.pdf) |
+| <img src="https://m.media-amazon.com/images/I/71FPkw065VL._SL1500_.jpg" width="100" height="150"></img> | Rodrigo Ferreira | Segurança em aplicações Web | <a href=https://amzn.to/3HOBT2s>Amazon</a> | [PDF](/Livros/Seguranca%20em%20aplicacoes%20Web%20--%20Casa%20do%20Codigo%20--%20Casa%20do%20Codigo%20--%20eaeb032619cb2819d6fa72e04f0523ac%20--%20Anna’s%20Archive.pdf) |
 | <img src="https://m.media-amazon.com/images/I/71cjTXIenLL._SL1500_.jpg" width="100" height="150"></img> | José Augusto de Almeida Jr.  | Pentest em aplicações web: Avalie a segurança contra ataques web com testes de invasão no Kali Linux | <a href=https://amzn.to/485sKxg>Amazon</a> | [PDF] |
 
 ## Redes de Computadores
@@ -81,8 +81,8 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 | <img src="https://m.media-amazon.com/images/I/61YbRivN0FL._SL1500_.jpg" width="100" height="150"></img> | Don Murdoch | Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02): A Condensed Guide for the Security Operations Team and Threat Hunter | <a href=https://amzn.to/42swZSn>Amazon</a> | [PDF](/Livros/Blue%20Team%20Handbook%20-%20SOC%2C%20SIEM%20%26%20Threats%20Hunting%20Use%20Cases%20--%20Don%20Murdoch%20--%20Blue%20Team%20Handbook%20(Book%202)%2C%202019%20--%20Independently%20published%20--%20Anna’s%20Archive.pdf) |
 
 ## Sistemas Operacionais
-| Capa | Autor | Nome | Loja |
-|------|-------|------|-------|
+| Capa | Autor | Nome | Loja | PDF |
+|------|-------|------|-------|----|
 | <img src="https://m.media-amazon.com/images/I/81TqQbBQKPL._SL1500_.jpg" width="100" height="150"></img> | Andrew S. Tanenbaum | Sistemas Operacionais Modernos | <a href=https://amzn.to/3Orc5xg>Amazon</a> | [PDF](/Livros/Redes%20de%20Computadores%206ª%20Edição%20--%20Andrew%20Tanenbaum%20%26%20Nick%20Feamster%20%26%20David%20Wetherall%20--%202021%20--%20Bookman%20e%20Pearson%20--%209788582605615%20--%202d61624c80bf039c76fc4a9c9486db3d%20--%20Anna’s%20Archive.pdf) |
 
 ## Engenharia Social
