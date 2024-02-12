@@ -70,7 +70,7 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 |------|-------|------|-------|----|
 | <img src="https://m.media-amazon.com/images/I/81x-nHq0GXL._SL1436_.jpg" width="100" height="150"></img> | João Eriberto Mota Filho | Análise de Tráfego em Redes TCP/IP: Utilize Tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional | <a href=https://amzn.to/48QQ2YR>Amazon</a> | [PDF](exemplo_link_pdf) |
 | <img src="https://m.media-amazon.com/images/I/91uoaAYJkrL._SL1500_.jpg" width="100" height="150"></img> | Andrew Tanenbaum | Redes de Computadores | <a href=https://amzn.to/481MKAQ>Amazon</a> | [PDF](exemplo_link_pdf) |
-| <img src="https://m.media-amazon.com/images/I/51edV5sjzhL._SL1000_.jpg" width="100" height="150"></img> | Gordon Fyodor Lyon | Redes de Computadores | <a href=https://amzn.to/42ntJHW>Amazon</a> | [PDF](exemplo_link_pdf) |
+| <img src="https://m.media-amazon.com/images/I/51edV5sjzhL._SL1000_.jpg" width="100" height="150"></img> | Gordon Fyodor Lyon | Exame de Redes com Nmap  | <a href=https://amzn.to/42ntJHW>Amazon</a> | [PDF](exemplo_link_pdf) |
 
 ## Cyber Threat Intelligence
 | Capa | Autor | Nome | Loja | PDF |
