@@ -22,16 +22,16 @@ sugestões de melhorias [cliquando aqui](https://github.com/luisfelipe146/Biblio
 
 
 ## Linguagem de Programação
-| Capa | Autor | Nome | Loja | PDF |
-|------|-------|------|-------|----|
-| <img src="https://m.media-amazon.com/images/I/91NJ0qC4vEL._SL1500_.jpg" width="100" height="150"></img> | Justin Seitz | Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters | <a href=https://amzn.to/3Onzj7h>Amazon</a> | [PDF](/Livros/Black-Hat-Python_-Python-Programming-for-Hackers-and-Justin-Seitz_-Tim-Arnold-2_-2021-No-Starch-Pres.pdf) |
-| <img src="https://m.media-amazon.com/images/I/717NiWamPGL._SL1413_.jpg" width="100" height="150"></img> | Aurelio Marinho Jargas | Shell Script Profissional | <a href=https://amzn.to/3Smnvn9>Amazon</a> | [PDF](/Livros/Shell%20Script%20Profissional%20--%20Aurelio%20Marinho%20Jargas%20--%202017%20--%20Novatec%20Editora%20--%20b569a8766fd16c516b78e89949cbff03%20--%20Anna’s%20Archive.pdf) |
-| <img src="https://m.media-amazon.com/images/I/61qxP-mwRgL._SL1297_.jpg" width="100" height="150"></img> | Aurelio Marinho Jargas | Expressões Regulares: Uma Abordagem Divertida | <a href=https://amzn.to/48giEKl>Amazon</a> | [PDF](Livros/Expressões-regulares_-uma-abordagem-divertida-Aurelio-Marinho-Jargas-5.pdf) |
+| Capa | Autor | Nome | Idioma | Loja | PDF |
+|------|-------|------|--------|-------|----|
+| <img src="https://m.media-amazon.com/images/I/91NJ0qC4vEL._SL1500_.jpg" width="100" height="150"></img> | Justin Seitz | Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters | <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/> | <a href=https://amzn.to/3Onzj7h><img width="48" height="48" src="https://img.icons8.com/color/48/amazon.png" alt="amazon"/> | <a href="/Livros/Black-Hat-Python_-Python-Programming-for-Hackers-and-Justin-Seitz_-Tim-Arnold-2_-2021-No-Starch-Pres.pdf"><img width="48" height="48" src="https://img.icons8.com/color/48/pdf-2--v1.png" alt="pdf-2--v1"/>  |
+| <img src="https://m.media-amazon.com/images/I/717NiWamPGL._SL1413_.jpg" width="100" height="150"></img> | Aurelio Marinho Jargas | Shell Script Profissional | <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/> | <a href=https://amzn.to/3Smnvn9><img width="48" height="48" src="https://img.icons8.com/color/48/amazon.png" alt="amazon"/> | <a href="/Livros/Shell%20Script%20Profissional%20--%20Aurelio%20Marinho%20Jargas%20--%202017%20--%20Novatec%20Editora%20--%20b569a8766fd16c516b78e89949cbff03%20--%20Anna’s%20Archive.pdf"><img width="48" height="48" src="https://img.icons8.com/color/48/pdf-2--v1.png" alt="pdf-2--v1"/> |
+| <img src="https://m.media-amazon.com/images/I/61qxP-mwRgL._SL1297_.jpg" width="100" height="150"></img> | Aurelio Marinho Jargas | Expressões Regulares: Uma Abordagem Divertida | <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/> | <a href=https://amzn.to/48giEKl><img width="48" height="48" src="https://img.icons8.com/color/48/amazon.png" alt="amazon"/> | <a href="Livros/Expressões-regulares_-uma-abordagem-divertida-Aurelio-Marinho-Jargas-5.pdf"><img width="48" height="48" src="https://img.icons8.com/color/48/pdf-2--v1.png" alt="pdf-2--v1"/> |
 
 ## Compliance e Regulamentações
-| Capa | Autor | Nome | Loja | PDF |
-|------|-------|------|-------|----|
-| <img src="https://m.media-amazon.com/images/I/71SDtU1XRBL._SL1297_.jpg" width="100" height="150"></img> | Jule Hintzbergen | Fundamentos de Segurança da Informação: com Base na ISO 27001 e na ISO 27002 | <a href=https://amzn.to/3SGOH18>Amazon</a> | [PDF](/Livros/Fundamentos%20de%20Segurança%20da%20Informação_%20com%20base%20na%20ISO%20--%20Hans%20Baars%2C%20Kees%20Hintzbergen%2C%20Jule%20Hintzbergen%2C%20André%20--%201%2C%202018%20--%20BRASPORT%20--%20Anna’s%20Archive.pdf) |
+| Capa | Autor | Nome | Idioma | Loja | PDF |
+|------|-------|------|--------|-------|----|
+| <img src="https://m.media-amazon.com/images/I/71SDtU1XRBL._SL1297_.jpg" width="100" height="150"></img> | Jule Hintzbergen | Fundamentos de Segurança da Informação: com Base na ISO 27001 e na ISO 27002 | <img width="48" height="48" src="https://img.icons8.com/color/48/brazil-circular.png" alt="brazil-circular"/> | <a href=https://amzn.to/3SGOH18><img width="48" height="48" src="https://img.icons8.com/color/48/amazon.png" alt="amazon"/> | <a href="/Livros/Fundamentos%20de%20Segurança%20da%20Informação_%20com%20base%20na%20ISO%20--%20Hans%20Baars%2C%20Kees%20Hintzbergen%2C%20Jule%20Hintzbergen%2C%20André%20--%201%2C%202018%20--%20BRASPORT%20--%20Anna’s%20Archive.pdf"><img width="48" height="48" src="https://img.icons8.com/color/48/pdf-2--v1.png" alt="pdf-2--v1"/> |
 
 ## Certificações
 | Capa | Autor | Nome | Loja | PDF |
